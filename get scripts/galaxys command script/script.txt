@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/glax-collapse/galaxy-commands/blob/abef6d6dc87d4f7fcf7f6e94d5a86ff2d503d1e7/get%20scripts/galaxys%20command%20script/script.txt",true))()
+loadstring(game:HttpGet("https://github.com/glax-collapse/galaxy-commands/blob/37e41bfc4f9c8d2c4535f5351c5ebae866489341/get%20scripts/galaxys%20command%20script/script.txt",true))()
